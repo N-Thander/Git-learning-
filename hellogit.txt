@@ -1,0 +1,4 @@
+
+
+Hello there this is my first txt in git 
+Trying to learn git properly
